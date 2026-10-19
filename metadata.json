@@ -1,0 +1,8 @@
+{
+  "name": "EventZenith",
+  "description": "Seamless Event Registration - Your Gateway to Seamless Event Experiences.",
+  "prompt": "Event registration web app with multi-step registration form",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -5,6 +5,10 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'EventZenith - Seamless Event Registration',
   description: 'Your Gateway to Seamless Event Experiences.',
+  openGraph: {
+    title: 'EventZenith - Seamless Event Registration',
+    description: 'Your Gateway to Seamless Event Experiences.',
+  },
 };
 
 export default function RootLayout({
